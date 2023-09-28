@@ -42,7 +42,7 @@ When you sprint, you should be laser-focused on the goal, powered by preparation
 
 If you are constantly in a state of "sprint", that is not sprinting.
 
-Deadlines should be meaningful, and carefully. As part of valuing attention, arbitrary deadlines can be stressful and distracting while impacting quality.
+Deadlines should be meaningful, and carefully chosen. As part of valuing attention, arbitrary deadlines can be stressful and distracting while impacting quality, so consider this cost.
 
 ### Be resilient, not fragile
 
