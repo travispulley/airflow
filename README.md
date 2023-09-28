@@ -18,7 +18,7 @@ That meeting could have been an email / chat thread.
 
 How much time does a 15-minute meeting cost? Too much, and it puts the required attendees in a difficult position of excusing the distraction cost.
 
-Asynchronous communication is better than scheduled meetings. Leave those meetings for when they are truly necessary, so the audience can give good attention.
+Asynchronous communication is often a better tool than scheduled meetings. Leave those meetings for when they are truly necessary, so the audience can give good attention.
 
 ### It's safe to give time estimates
 
