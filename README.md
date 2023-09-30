@@ -10,13 +10,23 @@ This project is a work in progress, a philosophy about software development, arc
 
 Yes, this 100% compatible with the [Agile Manifesto](https://agilemanifesto.org/principles.html)
 
+## Is this Waterfall?
+
+Unfortunately, waterfall is sold as the anti-Agile, a problem in need of rescue.
+
+Those who were shipping software before Agile know it's not a linear cascade, but an interative cycle of steps from start to delivery. A washing machine with a rotary drum more than a waterfall, or sometimes a spiral that narrows to completion.
+
+Requirements, Specification, Design, Construction, and Testing all have a place in software development, but modern practices allow for more flexible deployment of concerns.
+
+Airflow is the new thing, and it's still fluid motion from start to finish.
+
 ## Concepts
 
 ### Value Attention
 
-That meeting could have been an email / chat thread.
+That meeting could have been a chat thread or an email.
 
-How much time does a 15-minute meeting cost? Too much, and it puts the required attendees in a difficult position of excusing the distraction cost.
+How much time does a 10-minute meeting cost? Too much, and it puts the required attendees in a difficult position of excusing the distraction cost.
 
 Asynchronous communication is often a better tool than scheduled meetings. Leave those meetings for when they are truly necessary, so the audience can give good attention.
 
@@ -46,7 +56,7 @@ Deadlines should be meaningful, and carefully chosen. As part of valuing attenti
 
 ### Be resilient, not fragile
 
-Your processes should be as flexible as your organization, and realistic organizations have technical debt, legacy support, spurious decision-making, and employee turnover. You shouldn't need a long runway to see that your process is working. Let your team find out what works with a helpful starting path.
+Your processes should be as flexible as your organization, and realistic organizations have technical debt, legacy support, spurious decision-making, employee turnover, vendor contracts, and third party relationships. You shouldn't need a long runway to know if your process is working. Let your team find out what works with a helpful starting path.
 
 ## The Triangle of Success
 
