@@ -14,7 +14,7 @@ Yes, this 100% compatible with the [Agile Manifesto](https://agilemanifesto.org/
 
 Unfortunately, waterfall is sold as the anti-Agile, a problem in need of rescue.
 
-Those who were shipping software before Agile know it's not a linear cascade, but an interative cycle of steps from start to delivery. A washing machine with a rotary drum more than a waterfall, or sometimes a spiral that narrows to completion.
+Those who were shipping software before Agile know it's not a linear cascade, but an iterative cycle of steps from start to delivery. A washing machine with a rotary drum more than a waterfall, or sometimes a spiral that narrows to completion.
 
 Requirements, Specification, Design, Construction, and Testing all have a place in software development, but modern practices allow for more flexible deployment of concerns.
 
