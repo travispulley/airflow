@@ -22,6 +22,12 @@ Airflow is the new thing, and it's still fluid motion from start to finish.
 
 ## Concepts
 
+### Semantic Integrity
+
+A rich lexicon of words already exist to describe these processes. Be cautious of newspeak that redifines well established words.
+
+Agile practices emody agility.
+
 ### Value Attention
 
 That meeting could have been a chat thread or an email.
@@ -50,7 +56,7 @@ We have continuous integration and continuous delivery (CI/CD) now. You don't ne
 
 When you sprint, you should be laser-focused on the goal, powered by preparation, and delivering at maximum speed with a clear path forward. This is intense, and sprinters should not be interrupted or distracted while sprinting. When the goal is reached, it is expected that the sprinter take a moment to recover from exhaustion.
 
-If you are constantly in a state of "sprint", that is not sprinting.
+If you are constantly in a state of "sprint", that is not sprinting. Sometimes the situation requires a marathon, haul, or brisk jog. See [Semantic Integrity](#semantic-integrity)
 
 Deadlines should be meaningful, and carefully chosen. As part of valuing attention, arbitrary deadlines can be stressful and distracting while impacting quality, so consider this cost.
 
