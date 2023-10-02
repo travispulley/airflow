@@ -8,15 +8,25 @@ This project is a work in progress, a philosophy about software development, arc
 
 ## Is this Agile?
 
-Yes, this 100% compatible with the [Agile Manifesto](https://agilemanifesto.org/principles.html)
+Yes, this 100% compatible with the [Agile Manifesto](https://agilemanifesto.org/principles.html).
 
-## Is this Waterfall?
+## Is this agile?
 
-Unfortunately, [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) is sold as the anti-Agile, a problem in need of rescue.
+Yes, it's that too.
+
+agile [ **aj**-*uh*l, -ahyl ]
+
+*adjective*
+1. characterized by quickness, lightness, and ease of movement; nimble
+1. quick and well-coordinated in movement
+
+## What about Waterfall?
+
+Sometimes [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) is presented as the anti-Agile, a problem in need of rescue.
 
 Those who were shipping software before Agile know it's not a linear cascade, but an iterative cycle of steps from start to delivery. A washing machine with a rotary drum more than a waterfall, or sometimes a spiral that narrows to completion.
 
-Requirements, Specification, Design, Construction, and Testing all have a place in software development, but modern practices allow for more flexible deployment of concerns.
+Requirements, Specification, Design, Construction, Testing, and User Feedback all have a place in software development, but modern practices allow for more flexible deployment of concerns.
 
 Airflow is the new thing, and it's still fluid motion from start to finish.
 
