@@ -36,16 +36,16 @@ Airflow is the new thing, and it's still fluid motion from start to finish.
 
 ## Concepts
 
-- [Semantic integrity](#semantic-integrity)
+- [Semantic Integrity](#semantic-integrity)
 - [Value attention](#value-attention)
 - [It's safe to give time estimates](#its-safe-to-give-time-estimates)
 - [You can't predict everything](#you-cant-predict-everything)
 - [Stories tell what happened](#stories-tell-what-happened)
 - [Arbitrary deadlines are arbitrary](#arbitrary-deadlines-are-arbitrary)
 - [Be resilient, not fragile](#be-resilient-not-fragile)
-- [Make Things to Throw Away](#make-things-to-throw-away)
+- [Make things to throw away](#make-things-to-throw-away)
 
-### Semantic integrity
+### Semantic Integrity
 
 A rich lexicon of words already exists to describe these processes. Be cautious of newspeak that redefines well established words.
 
@@ -53,7 +53,7 @@ Agile practices embody agility.
 
 ### Value attention
 
-Time is one resource your developers have to spend to achieve results, and attention is another that should not be discounted.
+Time is one resource developers have to spend to achieve results, and attention is another that should not be discounted.
 
 "That meeting could have been a chat thread or an email."
 
