@@ -24,6 +24,10 @@ agile [ **aj**-*uh*l, -ahyl ]
 1. characterized by quickness, lightness, and ease of movement; nimble
 1. quick and well-coordinated in movement
 
+## But Why?
+
+Software developers want to get things done. Management wants things to get done. Users want good software. Investors want good returns. We have the technology.
+
 ## What about Waterfall?
 
 Sometimes [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) is presented as the anti-Agile, a problem in need of rescue.
