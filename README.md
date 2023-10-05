@@ -47,7 +47,7 @@ Airflow is the new thing, and it's still fluid motion from start to finish.
 
 ### Semantic integrity
 
-A rich lexicon of words already exist to describe these processes. Be cautious of newspeak that redefines well established words.
+A rich lexicon of words already exists to describe these processes. Be cautious of newspeak that redefines well established words.
 
 Agile practices embody agility.
 
