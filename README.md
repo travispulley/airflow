@@ -42,9 +42,9 @@ Airflow is the new thing, and it's still fluid motion from start to finish.
 
 ### Semantic Integrity
 
-A rich lexicon of words already exist to describe these processes. Be cautious of newspeak that redifines well established words.
+A rich lexicon of words already exist to describe these processes. Be cautious of newspeak that redefines well established words.
 
-Agile practices emody agility.
+Agile practices embody agility.
 
 ### Value Attention
 
@@ -86,9 +86,9 @@ Your processes should be as flexible as your organization, and realistic organiz
 
 ### Make Things to Throw Away
 
-This is a whole chapter from [*The Mythical Man-Month*](https://en.wikipedia.org/wiki/The_Mythical_Man-Month#The_pilot_system). Building software involes a great deal of discovery and experimentation. If you're not making mistakes, are you aware of the mistakes you don't know you're making? How about the mistakes you or a coworker could be making? How would you know to recognize failure if you haven't seen it go wrong before?
+This is a whole chapter from [*The Mythical Man-Month*](https://en.wikipedia.org/wiki/The_Mythical_Man-Month#The_pilot_system). Building software involves a great deal of discovery and experimentation. If you're not making mistakes, are you aware of the mistakes you don't know you're making? How about the mistakes you or a coworker could be making? How would you know to recognize failure if you haven't seen it go wrong before?
 
-This discovery and experimentation process doesn't need to have everything documented and tested if it distracts from developer flow state. Write about the interesting moments and create tests for notable behvaiors. Sketch notes along the way and compile the report later.
+This discovery and experimentation process doesn't need to have everything documented and tested if it distracts from developer flow state. Write about the interesting moments and create tests for notable behaviors. Sketch notes along the way and compile the report later.
 
 Be careful of the [Big Ball of Mud anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern#Big_ball_of_mud). There is a natural tendency to build unmaintainable software by adding more things on top of what's already there. If you haven't seen it or done it, you will. Learning better design is a matter of practice and experience.
 
