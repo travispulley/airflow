@@ -1,7 +1,3 @@
----
-title: AirFlow - Software Development Practice that Works
----
-
 # Airflow
 
 **Software Development Practice that Works**
