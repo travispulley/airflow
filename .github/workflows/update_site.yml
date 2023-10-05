@@ -1,0 +1,26 @@
+name: Update Site
+
+on:
+  push:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      BUCKET_NAME: ${{ secrets.BUCKET_NAME }}
+      AWS_ROLE: ${{ secrets.AWS_ROLE }}
+      AWS_REGION: ${{ secrets.AWS_REGION }}
+    steps:
+      - uses: actions/checkout@v3
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: $AWS_ROLE
+          aws-region: $AWS_REGION
+      - name: Process README and Upload to S3
+        run: pandoc --standalone --template site_files/template.html README.md \
+          --metadata title="pandoc_complains_without_title" | \
+          aws s3 cp - s3://$BUCKET_NAME/index.html
