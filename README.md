@@ -57,7 +57,9 @@ Time is one resource developers have to spend to achieve results, and attention 
 
 "That meeting could have been a chat thread or an email."
 
-How much time does a 10-minute meeting cost? Too much, and it puts the required attendees in a difficult position of excusing the distraction cost.
+How much time does a 10-minute meeting cost? Is it worth the distraction, worth the time for developers to switch context and attention from they were doing before and after the meeting is scheduled?
+
+Exceptions exist for holding short, scheduled meetings. Do software engineers need to know about [Delta P](https://en.wikipedia.org/wiki/%CE%94P) or the implications of non-redundant sensors for safety? Depending on the application, the answer is a hard yes. Have short meetings with mandatory attendance about that if it's important enough.
 
 Asynchronous communication is often a better tool than scheduled meetings. Leave those meetings for when they are truly necessary, so the audience can give good attention.
 
