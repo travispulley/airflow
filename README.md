@@ -18,7 +18,7 @@ agile [ **aj**-*uh*l, -ahyl ]
 
 *adjective*
 1. characterized by quickness, lightness, and ease of movement; nimble
-1. quick and well-coordinated in movement
+2. quick and well-coordinated in movement
 
 ## But Why?
 
@@ -38,6 +38,7 @@ Airflow is the new thing, and it's still fluid motion from start to finish.
 
 - [Semantic Integrity](#semantic-integrity)
 - [Value attention](#value-attention)
+- [Build trust](#build-trust)
 - [It's safe to give time estimates](#its-safe-to-give-time-estimates)
 - [You can't predict everything](#you-cant-predict-everything)
 - [Stories tell what happened](#stories-tell-what-happened)
@@ -62,6 +63,12 @@ How much time does a frequent 10-minute meeting cost? Is it worth the distractio
 Exceptions exist for holding necessary meetings. Do software engineers need to know about [Delta P](https://en.wikipedia.org/wiki/%CE%94P) or the implications of non-redundant sensors for safety? Depending on the application, the answer is a hard yes. Have meetings with mandatory attendance if it's important enough.
 
 Asynchronous communication is often a better tool than scheduled meetings. Leave those meetings for when they are truly necessary, so the audience can give good attention.
+
+### Build trust
+
+Own mistakes and learn from them, give credit where it's due, and be considerate when directing others' attention. Give people space to make their own mistakes and learn from them. *See* [Make things to throw away](#make-things-to-throw-away)
+
+Put safety cones and caution tape around dangerous parts of the software to protect yourself and others from trouble. A better idea is to build less dangerous software, but that's not always possible or practical. A worse idea is to ignore it as [Someone Else's Problem](https://en.wikipedia.org/wiki/Somebody_else%27s_problem) (S.E.P.).
 
 ### It's safe to give time estimates
 
