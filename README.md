@@ -8,7 +8,7 @@ This project is a work in progress, a philosophy about software development, arc
 
 ## Is this Agile?
 
-Yes, this 100% compatible with the [Agile Manifesto](https://agilemanifesto.org/principles.html).
+Yes, this 100% compatible with the [Manifesto for Agile Software Development](https://agilemanifesto.org/).
 
 ## Is this agile?
 
@@ -66,7 +66,7 @@ Asynchronous communication is often a better tool than scheduled meetings. Leave
 
 ### Build trust
 
-Own mistakes and learn from them, give credit where it's due, and be considerate when directing others' attention. Give people space to make their own mistakes and learn from them. *See* [Make things to throw away](#make-things-to-throw-away)
+Own mistakes and learn from them, give credit where it's due, and be considerate when directing others' attention. Give people space to make their own mistakes and success, and learn from them. *See* [Make things to throw away](#make-things-to-throw-away)
 
 Put safety cones and caution tape around dangerous parts of the software to protect yourself and others from trouble. A better idea is to build less dangerous software, but that's not always possible or practical. A worse idea is to ignore it as [Someone Else's Problem](https://en.wikipedia.org/wiki/Somebody_else%27s_problem) (S.E.P.).
 
