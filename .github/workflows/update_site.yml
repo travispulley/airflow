@@ -22,7 +22,7 @@ jobs:
     # I imagine there's a better way to do this
     - name: Cache pandoc
       id: cache-pandoc
-      uses: actions/cache@v2
+      uses: actions/cache@v3
       with:
         path: |
           /usr/bin/pandoc
