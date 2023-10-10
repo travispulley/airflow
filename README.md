@@ -76,6 +76,18 @@ Own mistakes and learn from them, give credit where it's due, and be considerate
 
 Put safety cones and caution tape around dangerous parts of the software to protect yourself and others from trouble. A better idea is to build less dangerous software, but that's not always possible or practical. A worse idea is to ignore it as [Someone Else's Problem](https://en.wikipedia.org/wiki/Somebody_else%27s_problem) (S.E.P.).
 
+#### Accountability
+
+Accountability is useful, but consider what that means and how it is applied. The goal is to get things done without bad results, such as project failure or security breaches. Accountability is a tool for taking serious things seriously, but the implicit danger of risking consequences is a powerful force to use sparingly where appropriate.
+
+The risk here is that success can be claimed and failure can be displaced easily within systems that assume correct attribution. Does your system reward honesty in light of unflattering truth?
+
+If accountability is applied to mean satisfying performance goals or metrics, are those goals and metrics meaningful and within the accountable person's control? Consider external factors like delivery vehicles stuck in traffic or waiting for a response. Deferring accountability to someone working with limited or restricted resources needs care and consideration.
+
+Try to motivate accountability with incentives more than danger. Encourage people to jump in front of problems to get them fixed instead of denying them for the sake of appearances.
+
+Beyond risking trust, introducing risk of punishment can be very distracting, while reward for useful action is motivating and valuable. *See* [Value attention](#value-attention)
+
 ### It's safe to give time estimates
 
 You don't need to obfuscate time estimates with story points, velocity formulas, or burndown charts. "This should take three days" is a very reasonable string of words to communicate effectively.
