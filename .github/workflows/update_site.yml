@@ -24,11 +24,11 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
-    - name: Configure AWS credentials
-      uses: aws-actions/configure-aws-credentials@v4
-      with:
-        role-to-assume: ${{ secrets.AWS_ROLE }}
-        aws-region: ${{ secrets.AWS_REGION }}
+    # - name: Configure AWS credentials
+    #   uses: aws-actions/configure-aws-credentials@v4
+    #   with:
+    #     role-to-assume: ${{ secrets.AWS_ROLE }}
+    #     aws-region: ${{ secrets.AWS_REGION }}
 
     - name: Install Pandoc
       run: sudo apt update && sudo apt install -y pandoc

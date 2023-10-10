@@ -6,6 +6,8 @@ This project is a work in progress, a philosophy about software development, arc
 
 *A breath of fresh air*
 
+![Pressure Wind Tunnel at Langley Aeronautical Laboratory, 1950](site_files/windtunnel.jpg "Airflow")
+
 ## Is this Agile?
 
 Yes, this 100% compatible with the [Manifesto for Agile Software Development](https://agilemanifesto.org/).
@@ -45,6 +47,7 @@ Airflow is the new thing, and it's still fluid motion from start to finish.
 - [Semantic Integrity](#semantic-integrity)
 - [Value attention](#value-attention)
 - [Build trust](#build-trust)
+  - [Accountability](#accountability)
 - [It's safe to give time estimates](#its-safe-to-give-time-estimates)
 - [You can't predict everything](#you-cant-predict-everything)
 - [Stories tell what happened](#stories-tell-what-happened)
