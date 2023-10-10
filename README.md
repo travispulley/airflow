@@ -10,6 +10,8 @@ This project is a work in progress, a philosophy about software development, arc
 
 Yes, this 100% compatible with the [Manifesto for Agile Software Development](https://agilemanifesto.org/).
 
+This is referred to within as Agile, in proper noun format with a capital A, to specifically mean this software development philosophy.
+
 ## Is this agile?
 
 Yes, it's that too.
@@ -22,7 +24,11 @@ agile [ **aj**-*uh*l, -ahyl ]
 
 ## But Why?
 
-Software developers want to get things done. Management wants things to get done. Users want good software. Investors want good returns. We have the technology.
+- Software developers want to get things done
+- Management wants things to get done
+- Users want good software
+- Investors want good returns
+- We have the technology
 
 ## What about Waterfall?
 
@@ -96,9 +102,19 @@ If you are constantly in a state of "sprint", that is not sprinting. Sometimes t
 
 Deadlines should be meaningful and carefully chosen. As part of [valuing attention](#value-attention), arbitrary deadlines can be stressful and distracting while impacting quality, so consider this cost.
 
+With Agile practices, an urgent situation needing swift response is better served by "yes" than "wait for the meeting". How fast can a bug fix go from incident report to deployment?
+
 ### Be resilient, not fragile
 
 Your processes should be as flexible as your organization, and realistic organizations have technical debt, legacy support, spurious decision-making, employee turnover, vendor contracts, and third party relationships. You shouldn't need a long runway to know if your process is working. Let your team find out what works with a helpful starting path.
+
+Human systems with designated roles should allow for those roles to be serviced by different people interchangeably, at least to some extent if not fully. Your software systems have redundancy and flexibility, and your human systems can benefit from those design elements too.
+
+Requiring more roles than can be individually staffed will require one person to perform multiple roles, which can work if there is enough attention budgeted for them to serve those roles effectively. When that goes wrong, attention is at a deficit and the motions of those roles might be done without purpose or awareness. *See* [Value attention](#value-attention)
+
+Specialization is useful and important, but be careful of "not my job" responses to matters of importance that should be shared among teams and individuals within an organization, such as quality and security.
+
+Someone working on an unrelated task should be allowed and encouraged to raise awareness of concerns noticed in the course of normal work. This promotes resilience and should cost little in time and attention. Management should have a playbook for taking alerts to the satisfaction of the reporter.
 
 ### Make things to throw away
 
