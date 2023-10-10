@@ -15,31 +15,24 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       id-token: write
       contents: read
-    steps:
-    # I imagine there's a better way to do this
-    - name: Cache pandoc
-      id: cache-pandoc
-      uses: actions/cache@v3
-      with:
-        path: |
-          /usr/bin/pandoc
-          /usr/share/pandoc
-          /lib/x86_64-linux-gnu/
-        key: ${{ runner.os }}-apt-pandoc
 
-    - name: Install Pandoc
-      if: steps.cache-pandoc.outputs.cache-hit != 'true'
-      run: sudo apt update && sudo apt install -y pandoc
+    steps:
     - name: Checkout
       uses: actions/checkout@v3
-    # - name: Configure AWS credentials
-    #   uses: aws-actions/configure-aws-credentials@v4
-    #   with:
-    #     role-to-assume: $AWS_ROLE
-    #     aws-region: $AWS_REGION
+
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v4
+      with:
+        role-to-assume: ${{ secrets.AWS_ROLE }}
+        aws-region: ${{ secrets.AWS_REGION }}
+
+    - name: Install Pandoc
+      run: sudo apt update && sudo apt install -y pandoc
+
     - name: Process README #and Upload to S3
       run: >
         pandoc --standalone --template ${{github.workspace}}/site_files/template.html
