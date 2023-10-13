@@ -32,6 +32,20 @@ agile [ **aj**-*uh*l, -ahyl ]
 - Investors want good returns
 - We have the technology
 
+## Preface, Warnings, Disclaimers, and Caveats
+
+These ideas are not final answers, and it offers questions to test existing processes in the interest of improvement. There are many ways to solve problems, and real assessments are useful when it comes to knowing what is working or not working. Much is subjective. Because something works or doesn't in one place for someone doesn't mean it will or won't somewhere else for someone else. Context matters.
+
+This is a product of direct experience and research into experiences of software developers, project managers, and business owners.
+
+Authorship and inspiration can be attributed, but this work is intended for wide input either directly or indirectly. Credit and attribution will be given or kept private with proper attention. Contributions are welcome.
+
+Links are provided to be useful or interesting, but no association is implied.
+
+This is not intended to sow discord with any existing processes or parties who operate them, and no one is accused of being wrong. This is a philosophically rhetorical question of "is this working?" by following the flow of activity, seeing where effort and resources are applied.
+
+There are assertions and generous use of the word "should", but please take with a grain of salt. Thank you.
+
 ## What about Waterfall?
 
 Sometimes [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) is presented as the anti-Agile, a problem in need of rescue.
