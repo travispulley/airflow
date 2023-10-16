@@ -127,7 +127,7 @@ How well and if any of those work can vary greatly depending on many things, so 
 - Responsive teamwork (+3)
 - Useful error messages (+1)
 
-This area will be revisited with updates, in pursuit of a better answer for good answers here.
+This area will be revisited with updates, in pursuit of better answers here.
 
 Mapping human effort to tangible results is no easy task, though it's important to realize the power of modern software processes and how greatly human efforts can be amplified.
 
