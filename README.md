@@ -44,7 +44,7 @@ Links are provided to be useful or interesting, but no association is implied.
 
 This is not intended to sow discord with any existing processes or parties who operate them, and no one is accused of being wrong. This is a philosophically rhetorical question of "is this working?" by following the flow of activity, seeing where effort and resources are applied.
 
-There are assertions and generous use of the word "should", but please take with a grain of salt. Thank you.
+Opinions presented are subject to growth and change. There are assertions and generous use of the word "should", but please take with a grain of salt. Thank you.
 
 ## What about Waterfall?
 
@@ -62,7 +62,8 @@ Airflow is the new thing, and it's still fluid motion from start to finish.
 - [Value attention](#value-attention)
 - [Build trust](#build-trust)
   - [Accountability](#accountability)
-- [It's safe to give time estimates](#its-safe-to-give-time-estimates)
+- [Data Driven](#data-driven)
+- [Give time estimates freely](#give-time-estimates-freely)
 - [You can't predict everything](#you-cant-predict-everything)
 - [Stories tell what happened](#stories-tell-what-happened)
 - [Arbitrary deadlines are arbitrary](#arbitrary-deadlines-are-arbitrary)
@@ -105,9 +106,34 @@ Try to motivate accountability with incentives more than danger. Encourage peopl
 
 Beyond risking trust, introducing risk of punishment can be very distracting, while reward for useful action is motivating and valuable. *See* [Value attention](#value-attention)
 
-### It's safe to give time estimates
+### Data Driven
 
-You don't need to obfuscate time estimates with story points, velocity formulas, or burndown charts. "This should take three days" is a very reasonable string of words to communicate effectively.
+Businesses and organizations operate on measurable results. Complexity and nuance of operations, particularly developer activity, can be difficult to measure objectively. Some jobs are clear cut, others more chaotic, and so coming up with meaningful measurements of value that are useful within operations is important to have correct.
+
+That's easy enough to say, but what's the answer then? Many efforts and attempts at measuring things with scalar values have been tried:
+
+- Lines of code
+- Point systems
+- Pull Requests
+- Cans of soda consumed
+- Time spent
+- Tickets resolved
+
+How well and if any of those work can vary greatly depending on many things, so as usual it's important to factor in context. Those examples can be measured as scalar values, but categorical data like factors working for or against efforts are important too. Categorical data can be accompanied by scalar values too, why not? Examples:
+
+- Great documentation (+5)
+- Black box design cost a lot of testing (-3)
+- Undocumented bugs discovered (-10)
+- Responsive teamwork (+3)
+- Useful error messages (+1)
+
+This area will be revisited with updates, in pursuit of a better answer for good answers here.
+
+Mapping human effort to tangible results is no easy task, though it's important to realize the power of modern software processes and how greatly human efforts can be amplified.
+
+### Give time estimates freely
+
+You don't need to obfuscate time estimates with story points, velocity formulas, or burndown charts. "This should take three days" is a very reasonable string of words to communicate effectively. Update the estimate as new information comes to light.
 
 Sometimes estimates are wrong. This is the nature of estimation. If something is happening too slowly or ahead of schedule, it is valuable to know what factors are in effect. Estimation values should budget for uncertainty, but should not be artificially inflated to avoid under-estimation. A better solution for that is to not punish inaccurate estimations, but rather deal with the reported factors.
 
