@@ -46,6 +46,13 @@ This is not intended to sow discord with any existing processes or parties who o
 
 Opinions presented are subject to growth and change. There are assertions and generous use of the word "should", but please take with a grain of salt. Thank you.
 
+## Contents
+
+- [What about Waterfall?](#what-about-waterfall)
+- [Concepts](#concepts)
+- [The Triangle of Success](#the-triangle-of-success)
+- [Framework Examples](#framework-examples)
+
 ## What about Waterfall?
 
 Sometimes [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) is presented as the anti-Agile, a problem in need of rescue.
@@ -183,8 +190,18 @@ We have Agile now, so make lots of things to throw away while picking the best p
 
 ## The Triangle of Success
 
+This idea is still being worked out, and the name is a working title.
+
 Find a balance of three:
 
 1. Scope
 2. Budget
 3. Time
+
+## Framework Examples
+
+Finding processes that support people and interactions over serving the process itself isn't always easy. As always with context being important, processes that work in one place may work differently in another place, even within organizations.
+
+Agile practices themselves can be agile, scaling to fit demand and leveraging modularity.
+
+This space will serve examples and components that can be used or modified to suit how teams work.
