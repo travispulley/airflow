@@ -67,6 +67,8 @@ Airflow is the new thing, and it's still fluid motion from start to finish.
 
 - [Semantic Integrity](#semantic-integrity)
 - [Value attention](#value-attention)
+  - [Messaging](#messaging)
+  - [Meetings](#meetings)
 - [Build trust](#build-trust)
   - [Accountability](#accountability)
 - [Data Driven](#data-driven)
@@ -85,7 +87,21 @@ Agile practices embody agility.
 
 ### Value attention
 
-Time is one resource developers have to spend to achieve results, and attention is another that should not be discounted.
+Time is one resource developers have to spend to achieve results, and attention is another that should not be discounted. Being agile means readiness to adapt to change, and this is a valuable resource not to be squandered on poor practices. Find attention in ways that are not expected to be tuned out.
+
+#### Messaging
+
+It's considerate to check if the timing is good for getting a person's attention.
+
+When you need something, give some helpful information up front to help the contact budget enough attention resourcefully. This is covered in detail at [no hello](https://nohello.net/), but for example:
+
+> **Suboptimal:** "Hi.", "Hey can you help me with something?", "Can you call me?"
+> 
+> **Better:** "I'm getting an error message I don't understand", "Did that job complete yet or have an ETA?", "Care to pair up on this thing I'm working on?"
+
+The same concept applies to emails and documentation. It helps to get to the point quickly.
+
+#### Meetings
 
 "That meeting could have been a chat thread or an email."
 
@@ -94,6 +110,8 @@ How much time does a frequent 10-minute meeting cost? Is it worth the distractio
 Exceptions exist for holding necessary meetings. Do software engineers need to know about [Delta P](https://en.wikipedia.org/wiki/%CE%94P) or the implications of non-redundant sensors for safety? Depending on the application, the answer is a hard yes. Have meetings with mandatory attendance if it's important enough.
 
 Asynchronous communication is often a better tool than scheduled meetings. Leave those meetings for when they are truly necessary, so the audience can give good attention.
+
+With fewer scheduled meetings, more time is available for spontaneous collaboration.
 
 ### Build trust
 
