@@ -9,8 +9,6 @@ on:
 
 env:
   BUCKET_NAME: ${{ secrets.BUCKET_NAME }}
-  AWS_ROLE: ${{ secrets.AWS_ROLE }}
-  AWS_REGION: ${{ secrets.AWS_REGION }}
 
 jobs:
   build:
@@ -37,4 +35,4 @@ jobs:
       run: >
         pandoc --standalone --template ${{github.workspace}}/site_files/template.html
         ${{github.workspace}}/README.md --metadata title="pandoc_complains_without_title"
-        | aws s3 cp - s3://$BUCKET_NAME/index.html
+        | aws s3 cp - s3://$BUCKET_NAME/index.html --content-type text/html
