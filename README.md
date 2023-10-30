@@ -31,6 +31,7 @@ agile [ **aj**-*uh*l, -ahyl ]
 - Users want good software
 - Investors want good returns
 - We have the technology
+- Because we care about you
 
 ## Preface, Warnings, Disclaimers, and Caveats
 
