@@ -89,6 +89,22 @@ Agile practices embody agility.
 
 Time is one resource developers have to spend to achieve results, and attention is another that should not be discounted. Being agile means readiness to adapt to change, and this is a valuable resource not to be squandered on poor practices. Find attention in ways that are not expected to be tuned out.
 
+#### Attention Budgeting
+
+Consider attention as simple resource that can be depleted and replenished. This is overly simplistic, but useful for our purposes. Using some of it at the right times can be very effective, and using too much in other places can be exhausting.
+
+#### Good Timing
+
+Having good timing matters. Sometimes it's a game of chance, but a game where the odds can be improved by simple techniques like:
+
+- Paying attention to context, reading the room
+- Noticing if something's being interrupted
+- Considerately asking if it's a good time
+
+If something's urgent enough, bad timing takes higher precedence over quality of delivery. For example: "Our cloud region is down and customers found our phone number somehow. We should start a response and order takeout."
+
+Sprinting, in the sense of an track and field event, is a good time to wait for the sprinter to reach the finish line before starting a conversation. Plus it's more interesting to talk about the freshly completed goal.
+
 #### Messaging
 
 It's considerate to check if the timing is good for getting a person's attention.
